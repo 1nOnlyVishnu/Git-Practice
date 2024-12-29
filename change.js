@@ -1,1 +1,1 @@
-console.log("change is inevitable");
+console.log("not everyone deserves to live.");
